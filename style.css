@@ -1,0 +1,93 @@
+body{
+background: rgb(4,149,255);
+background: linear-gradient(90deg, rgba(4,149,255,1) 0%, rgba(87,255,233,1) 57%, rgba(0,255,217,1) 61%);
+text-align: center;
+  bacground-repeat: no-repeat;
+}
+img{
+  border-radius: 50%;
+  width: 100px;
+}
+h1{
+   
+  font-size: 40px;
+}
+#bio{
+  padding: 40px;
+  font-size:20px;
+  text-align: center;
+	
+}
+	
+		
+}
+.parallax-inner{
+	display:table-cell;
+	position:relative;
+	text-align:center;
+	vertical-align: middle;
+	
+}
+h1{
+	font-size:40px;
+	line-height: 1.2;
+font-family: inherit;
+	font-weight: 300;
+	
+}
+#name{
+	font-size: 30px;
+	line-height: 1.2;
+	font-family: 'Palette Mosaic', cursive;+
+	
+}
+h2{
+font-size:30px;
+	line-height: 1.2;
+font-family: monospace;
+	font-weight: 300;	
+}
+#bio{
+padding: 50px;
+	text-align: center;
+	font-size: 42px;
+	
+}
+.line{
+	height: 6px;
+	background-color: aqua;
+	width: 70px;
+	margin: 8px auto;
+}
+p{
+	max-width: 450px;
+	margin: 25px auto;
+	font-size: 17px;
+	line-height: 1.9;
+	
+}
+.menu{
+	list-style: none;
+	font-family: sans-serif;
+	position: absolute	;
+	top: 10px;
+	right: 30px;
+	cursor: pointer;
+z-index: 10;
+}
+.links{
+	float: left;
+	color:white;
+	padding-top:5px;
+	padding-left:9px;
+	padding-right:9px;
+	padding-bottom:5px;
+	font-family:fantasy;
+	font-size:20px;
+}
+.links:hover{
+	background-color: brown;
+}
+	
+	
+	
